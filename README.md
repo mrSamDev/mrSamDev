@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @mrSamDev
-- 👀 I’m interested in ... Javascript, React, NodeJs & Travel
-- 🌱 I’m currently learning ... Typescript & GraphQL
-- 💞️ I’m looking to collaborate on ... MERN Stack projects
-- 📫 How to reach me ... sijosam1905@gmail.com
+# Hi there! 👋 I'm Sijo
 
-<!---
-mrSamDev/mrSamDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me 🚀
+- 🎯 Currently leading frontend development at Diagnal Technologies
+- 🌐 Love working with distributed teams across time zones
+
+## Tech I Love Working With 💻
+- JavaScript & TypeScript ecosystem
+- React & React Native
+- Node.js
+- AWS & Docker
+- Currently exploring Go & Rust
+
+## Current Focus 🌱
+- Diving deeper into TypeScript
+- Learning more into DevOps pipeline 
+- Always learning new ways to optimize web performance
+
+## Let's Connect! 📫
+- Email: sijosam1905@gmail.com
+- LinkedIn: [Sijo Sam](https://www.linkedin.com/in/sijo-sam/)
+- Bluesky: [@sijosam.in](https://bsky.app/profile/sijosam.in)
+
+Always open to collaborating on interesting MERN stack projects and discussing tech! Feel free to reach out if you want to build something cool together.
