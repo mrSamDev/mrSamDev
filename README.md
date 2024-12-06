@@ -17,6 +17,7 @@
 - Always learning new ways to optimize web performance
 
 ## Let's Connect! 📫
+- Blog: [sijosam](https://www.sijosam.in/)
 - Email: sijosam1905@gmail.com
 - LinkedIn: [Sijo Sam](https://www.linkedin.com/in/sijo-sam/)
 - Bluesky: [@sijosam.in](https://bsky.app/profile/sijosam.in)
