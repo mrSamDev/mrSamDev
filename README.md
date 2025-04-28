@@ -16,7 +16,12 @@ const Sijo = {
   current_obsession: 'Making those micro-interactions juuust right',
   past_adventures: ['Healthcare apps', 'Food delivery', '5G/4G solutions'],
   learning: 'Go (because apparently JavaScript wasn't enough of a challenge)',
-  workouts: ['Running', 'Trekking', 'Debug marathons']
+  workouts: ['Running', 'Trekking', 'Debug marathons'],
+   certifications: [
+    'Certified Scrum Master (CSM) - Scrum Alliance',
+    'Certified Secure Web Application Engineer (C)SWAE certification - Mile2',
+    'Understanding TypeScript by  Maximilian Schwarzmüller in 2022'
+  ]
 };
 ```
 
