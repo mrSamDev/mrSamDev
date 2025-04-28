@@ -20,8 +20,8 @@ const Sijo = {
    certifications: [
     'Certified Scrum Master (CSM) - Scrum Alliance',
     'Certified Secure Web Application Engineer (C)SWAE certification - Mile2',
-    'Go: The Complete Developer's Guide (Golang) by Stephen Grider'
-    'Understanding TypeScript by  Maximilian Schwarzmüller in 2022',
+    "Go: The Complete Developer's Guide (Golang) by Stephen Grider"
+    "Understanding TypeScript by  Maximilian Schwarzmüller in 2022",
   ]
 };
 ```
